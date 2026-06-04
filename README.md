@@ -1,4 +1,3 @@
-# RAG-Document-QA
 # RAG-Based Intelligent Document Q&A System
 
 ## Overview
